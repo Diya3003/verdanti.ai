@@ -11,7 +11,7 @@ nonfunctional turf in HOA common areas with drinking water from January 1, 2029.
 least $2 per square foot to replace lawn, but only if qualifying plants cover at least 50% of the area
 when grown, and only if the rebate is approved before any grass is removed.
 
-> **Judges:** the live app is at **[APP LINK]**. Running an AI design needs the passcode in the submission
+> **Judges:** the live app is at **https://verdanti-ai.streamlit.app**. Running an AI design needs the passcode in the submission
 > notes. Every other page works without it, and the demo video shows a complete run.
 
 ---
@@ -46,7 +46,7 @@ reference evapotranspiration. Estimates only; Valley Water's pre-inspection make
 ## Run it on your computer
 
 ```bash
-git clone [REPO URL] && cd [repo folder]
+git clone https://github.com/Diya3003/verdanti.ai.git && cd verdanti.ai
 python3 -m venv .venv && source .venv/bin/activate      # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 cp .env.example .env        # then open .env and paste your OpenAI API key and a passcode
