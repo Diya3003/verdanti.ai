@@ -1,0 +1,1126 @@
+{
+ "name": "Valley Water starter palette",
+ "palette": [
+  {
+   "botanical": "Achillea Millefolium (Ca Native Cultivars)",
+   "common": "Common Yarrow",
+   "sun": [
+    "Full Sun",
+    "Partial Sun"
+   ],
+   "types": [
+    "Groundcover",
+    "Perennial"
+   ],
+   "coverage_sqft": 4.0,
+   "native_ca": true,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Salvia Spathacea",
+   "common": "Hummingbird Or Pitcher Sage",
+   "sun": [
+    "Partial Sun",
+    "Full Shade"
+   ],
+   "types": [
+    "Groundcover",
+    "Perennial"
+   ],
+   "coverage_sqft": 10.0,
+   "native_ca": true,
+   "rebate_status": "exact",
+   "water": "moderate"
+  },
+  {
+   "botanical": "Salvia Clevelandii & Hybrids",
+   "common": "Cleveland, Alan Chickering Etc.",
+   "sun": [
+    "Full Sun"
+   ],
+   "types": [
+    "Shrub"
+   ],
+   "coverage_sqft": 33.0,
+   "native_ca": true,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Salvia Leucophylla",
+   "common": "Purple Sage",
+   "sun": [
+    "Full Sun"
+   ],
+   "types": [
+    "Shrub"
+   ],
+   "coverage_sqft": 13.0,
+   "native_ca": true,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Salvia 'Allen Chickering'",
+   "common": "Allen Chickering Sage",
+   "sun": [
+    "Full Sun"
+   ],
+   "types": [
+    "Shrub"
+   ],
+   "coverage_sqft": 16.0,
+   "native_ca": true,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Iris Douglasiana",
+   "common": "Douglias Iris",
+   "sun": [
+    "Partial Sun",
+    "Full Shade"
+   ],
+   "types": [
+    "Perennial"
+   ],
+   "coverage_sqft": 7.0,
+   "native_ca": true,
+   "rebate_status": "exact",
+   "water": "moderate"
+  },
+  {
+   "botanical": "Carex Pansa",
+   "common": "Dune Sedge",
+   "sun": [
+    "Full Sun",
+    "Partial Sun",
+    "Full Shade"
+   ],
+   "types": [
+    "Grass",
+    "Perennial"
+   ],
+   "coverage_sqft": 3.0,
+   "native_ca": true,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Carex Tumulicola",
+   "common": "Foothill Sedge",
+   "sun": [
+    "Full Sun",
+    "Partial Sun",
+    "Full Shade"
+   ],
+   "types": [
+    "Grass",
+    "Perennial"
+   ],
+   "coverage_sqft": 2.0,
+   "native_ca": true,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Arctostaphylos Manzanita",
+   "common": "Common Manzanita",
+   "sun": [
+    "Full Sun",
+    "Partial Sun"
+   ],
+   "types": [
+    "Shrub",
+    "Tree"
+   ],
+   "coverage_sqft": 79.0,
+   "native_ca": true,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Ceanothus Griseus 'Ray Hartman'",
+   "common": "Wild Lilac",
+   "sun": [
+    "Full Sun"
+   ],
+   "types": [
+    "Shrub"
+   ],
+   "coverage_sqft": 177.0,
+   "native_ca": true,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Ceanothus 'Blue Ray'",
+   "common": "Blue Ray Ceanothus",
+   "sun": [
+    "Full Sun"
+   ],
+   "types": [
+    "Shrub"
+   ],
+   "coverage_sqft": 177.0,
+   "native_ca": true,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Epilobium Canum 'Everett's Choice'",
+   "common": "California Fuchsia",
+   "sun": [
+    "Full Sun"
+   ],
+   "types": [
+    "Perennial"
+   ],
+   "coverage_sqft": 13.0,
+   "native_ca": true,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Eriogonum Fasciculatum 'Theodore Payne'",
+   "common": "California Buckwheat",
+   "sun": [
+    "Full Sun"
+   ],
+   "types": [
+    "Groundcover"
+   ],
+   "coverage_sqft": 13.0,
+   "native_ca": true,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Eriogonum Grande Rubescens",
+   "common": "Rosy Buckwheat",
+   "sun": [
+    "Full Sun"
+   ],
+   "types": [
+    "Perennial"
+   ],
+   "coverage_sqft": 3.0,
+   "native_ca": true,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Eriogonum Umbellatum 'Excellent Yellow'",
+   "common": "Sulfur Buckwheat",
+   "sun": [
+    "Full Sun"
+   ],
+   "types": [
+    "Perennial"
+   ],
+   "coverage_sqft": 3.0,
+   "native_ca": true,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Penstemon Heterophyllus 'Margarita Bop'",
+   "common": "Blue Bedder Penstemon",
+   "sun": [
+    "Full Sun",
+    "Partial Sun"
+   ],
+   "types": [
+    "Perennial"
+   ],
+   "coverage_sqft": 7.0,
+   "native_ca": true,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Mimulus Aurantiacus",
+   "common": "Sticky Monkeyflower",
+   "sun": [
+    "Full Sun",
+    "Partial Sun"
+   ],
+   "types": [
+    "Shrub"
+   ],
+   "coverage_sqft": 7.0,
+   "native_ca": true,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Muhlenbergia Rigens",
+   "common": "Deer Grass",
+   "sun": [
+    "Full Sun",
+    "Partial Sun"
+   ],
+   "types": [
+    "Grass"
+   ],
+   "coverage_sqft": 13.0,
+   "native_ca": true,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Festuca Californica",
+   "common": "California Fescue",
+   "sun": [
+    "Full Sun",
+    "Partial Sun",
+    "Full Shade"
+   ],
+   "types": [
+    "Grass"
+   ],
+   "coverage_sqft": 7.0,
+   "native_ca": true,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Juncus Patens",
+   "common": "Common Rush",
+   "sun": [
+    "Full Sun",
+    "Partial Sun"
+   ],
+   "types": [
+    "Perennial"
+   ],
+   "coverage_sqft": 7.0,
+   "native_ca": true,
+   "rebate_status": "exact",
+   "water": "moderate"
+  },
+  {
+   "botanical": "Ribes Sanguineum",
+   "common": "Red Flowering Currant",
+   "sun": [
+    "Partial Sun",
+    "Full Shade"
+   ],
+   "types": [
+    "Shrub"
+   ],
+   "coverage_sqft": 57.0,
+   "native_ca": true,
+   "rebate_status": "exact",
+   "water": "moderate"
+  },
+  {
+   "botanical": "Ribes Viburnifolium",
+   "common": "Evergreen Currant",
+   "sun": [
+    "Partial Sun",
+    "Full Shade"
+   ],
+   "types": [
+    "Shrub"
+   ],
+   "coverage_sqft": 33.0,
+   "native_ca": true,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Ribes Malvaceum",
+   "common": "Chaparral Currant",
+   "sun": [
+    "Full Sun",
+    "Partial Sun"
+   ],
+   "types": [
+    "Shrub"
+   ],
+   "coverage_sqft": 20.0,
+   "native_ca": true,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Heteromeles Arbutifolia",
+   "common": "Toyon",
+   "sun": [
+    "Full Sun",
+    "Partial Sun"
+   ],
+   "types": [
+    "Shrub"
+   ],
+   "coverage_sqft": 79.0,
+   "native_ca": true,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Rhamnus Californica 'Eve Case'",
+   "common": "Coffeeberry",
+   "sun": [
+    "Full Sun",
+    "Partial Sun",
+    "Full Shade"
+   ],
+   "types": [
+    "Shrub"
+   ],
+   "coverage_sqft": 38.0,
+   "native_ca": true,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Rhamnus Californica 'Mound San Bruno'",
+   "common": "Coffeeberry",
+   "sun": [
+    "Full Sun",
+    "Partial Sun"
+   ],
+   "types": [
+    "Shrub"
+   ],
+   "coverage_sqft": 123.0,
+   "native_ca": true,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Sisyrinchium Bellum",
+   "common": "Blue-Eyed Grass",
+   "sun": [
+    "Full Sun",
+    "Partial Sun"
+   ],
+   "types": [
+    "Perennial"
+   ],
+   "coverage_sqft": 2.0,
+   "native_ca": true,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Dudleya Spp.",
+   "common": "Dudleya Or Live Forever",
+   "sun": [
+    "Full Sun",
+    "Partial Sun"
+   ],
+   "types": [
+    "Succulent"
+   ],
+   "coverage_sqft": 2.0,
+   "native_ca": true,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Eschscholzia Californica",
+   "common": "California Poppy",
+   "sun": [
+    "Full Sun"
+   ],
+   "types": [
+    "Perennial"
+   ],
+   "coverage_sqft": 1.0,
+   "native_ca": true,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Erigeron Glaucus",
+   "common": "Beach Aster",
+   "sun": [
+    "Full Sun",
+    "Partial Sun"
+   ],
+   "types": [
+    "Perennial"
+   ],
+   "coverage_sqft": 2.0,
+   "native_ca": true,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Asclepias Fascicularis",
+   "common": "Narrow-Leaved Milkweed",
+   "sun": [
+    "Full Sun"
+   ],
+   "types": [
+    "Perennial"
+   ],
+   "coverage_sqft": 7.0,
+   "native_ca": true,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Romneya Coulteri",
+   "common": "Matilija Poppy",
+   "sun": [
+    "Full Sun"
+   ],
+   "types": [
+    "Perennial",
+    "Shrub"
+   ],
+   "coverage_sqft": 28.0,
+   "native_ca": true,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Elymus Condenstatus (Leymus Condenstatus)",
+   "common": "Giant Wild Rye",
+   "sun": [
+    "Full Sun",
+    "Partial Sun"
+   ],
+   "types": [
+    "Grass"
+   ],
+   "coverage_sqft": 20.0,
+   "native_ca": true,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Nassella Pulchra",
+   "common": "Purple Needlegrass",
+   "sun": [
+    "Full Sun"
+   ],
+   "types": [
+    "Grass"
+   ],
+   "coverage_sqft": 3.0,
+   "native_ca": true,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Clinopodium Douglasii",
+   "common": "Yerba Buena",
+   "sun": [
+    "Partial Sun",
+    "Full Shade"
+   ],
+   "types": [
+    "Perennial"
+   ],
+   "coverage_sqft": 16.0,
+   "native_ca": true,
+   "rebate_status": "exact",
+   "water": "moderate"
+  },
+  {
+   "botanical": "Aquilegia Spp.",
+   "common": "Columbine",
+   "sun": [
+    "Partial Sun",
+    "Full Shade"
+   ],
+   "types": [
+    "Perennial"
+   ],
+   "coverage_sqft": 3.0,
+   "native_ca": true,
+   "rebate_status": "exact",
+   "water": "moderate"
+  },
+  {
+   "botanical": "Philadelphus Microphyllus",
+   "common": "Littleleaf Mock Orange",
+   "sun": [
+    "Full Sun",
+    "Partial Sun"
+   ],
+   "types": [
+    "Shrub"
+   ],
+   "coverage_sqft": 13.0,
+   "native_ca": true,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Cercis Occidentalis",
+   "common": "Western Redbud (Shrub Form Only)",
+   "sun": [
+    "Full Sun",
+    "Partial Sun"
+   ],
+   "types": [
+    "Tree"
+   ],
+   "coverage_sqft": 79.0,
+   "native_ca": true,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Verbena Lilacina",
+   "common": "Lilac Verbena",
+   "sun": [
+    "Full Sun"
+   ],
+   "types": [
+    "Perennial"
+   ],
+   "coverage_sqft": 7.0,
+   "native_ca": true,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Lavandula Spp.",
+   "common": "Lavender",
+   "sun": [
+    "Full Sun"
+   ],
+   "types": [
+    "Shrub"
+   ],
+   "coverage_sqft": 13.0,
+   "native_ca": false,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Rosmarinus 'Prostratus'",
+   "common": "Trailing Rosemary",
+   "sun": [
+    "Full Sun"
+   ],
+   "types": [
+    "Groundcover",
+    "Shrub"
+   ],
+   "coverage_sqft": 50.0,
+   "native_ca": false,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Westringia Fruticosa",
+   "common": "Coast Rosemary",
+   "sun": [
+    "Full Sun",
+    "Partial Sun"
+   ],
+   "types": [
+    "Shrub"
+   ],
+   "coverage_sqft": 44.0,
+   "native_ca": false,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Nepeta Spp.",
+   "common": "Catmint Or Catnip",
+   "sun": [
+    "Full Sun",
+    "Partial Sun"
+   ],
+   "types": [
+    "Perennial"
+   ],
+   "coverage_sqft": 3.0,
+   "native_ca": false,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Lomandra Longifolia",
+   "common": "Spiny Headed Mat Rush",
+   "sun": [
+    "Full Sun",
+    "Partial Sun",
+    "Full Shade"
+   ],
+   "types": [
+    "Perennial"
+   ],
+   "coverage_sqft": 7.0,
+   "native_ca": false,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Dietes Iridioides",
+   "common": "Fortnight Lily",
+   "sun": [
+    "Full Sun",
+    "Partial Sun",
+    "Full Shade"
+   ],
+   "types": [
+    "Perennial"
+   ],
+   "coverage_sqft": 7.0,
+   "native_ca": false,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Dietes Bicolor",
+   "common": "Fortnight Lily",
+   "sun": [
+    "Full Sun",
+    "Partial Sun"
+   ],
+   "types": [
+    "Perennial"
+   ],
+   "coverage_sqft": 10.0,
+   "native_ca": false,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Agapanthus Inapertus Major",
+   "common": "LilyOfTheNile",
+   "sun": [
+    "Full Sun",
+    "Partial Sun",
+    "Full Shade"
+   ],
+   "types": [
+    "Perennial"
+   ],
+   "coverage_sqft": 3.0,
+   "native_ca": false,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Sarcococca Ruscifolia",
+   "common": "Fragrant Sarcococca",
+   "sun": [
+    "Partial Sun",
+    "Full Shade"
+   ],
+   "types": [
+    "Shrub"
+   ],
+   "coverage_sqft": 20.0,
+   "native_ca": false,
+   "rebate_status": "exact",
+   "water": "moderate"
+  },
+  {
+   "botanical": "Sarcococca Confusa",
+   "common": "Sweet Box",
+   "sun": [
+    "Partial Sun",
+    "Full Shade"
+   ],
+   "types": [
+    "Shrub"
+   ],
+   "coverage_sqft": 20.0,
+   "native_ca": false,
+   "rebate_status": "exact",
+   "water": "moderate"
+  },
+  {
+   "botanical": "Dymondia Margaretae",
+   "common": "Dymondia (Per Flat)",
+   "sun": [
+    "Full Sun",
+    "Partial Sun"
+   ],
+   "types": [
+    "Groundcover",
+    "Perennial"
+   ],
+   "coverage_sqft": 30.0,
+   "native_ca": false,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Leucadendron 'safari Sunset'",
+   "common": "Safari Conebush",
+   "sun": [
+    "Full Sun"
+   ],
+   "types": [
+    "Shrub"
+   ],
+   "coverage_sqft": 38.0,
+   "native_ca": false,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Phormium Tenax",
+   "common": "New Zealand Flax",
+   "sun": [
+    "Full Sun",
+    "Partial Sun"
+   ],
+   "types": [
+    "Perennial"
+   ],
+   "coverage_sqft": 38.0,
+   "native_ca": false,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Kniphofia 'Elvira'",
+   "common": "Elvira Red-Hot Poker",
+   "sun": [
+    "Full Sun"
+   ],
+   "types": [
+    "Perennial"
+   ],
+   "coverage_sqft": 10.0,
+   "native_ca": false,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Anigozanthos 'Harmony'",
+   "common": "Red-Yellow Kangaroo Paw",
+   "sun": [
+    "Full Sun"
+   ],
+   "types": [
+    "Perennial"
+   ],
+   "coverage_sqft": 16.0,
+   "native_ca": false,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Bulbine Frutescens",
+   "common": "Stalked Bulbine",
+   "sun": [
+    "Full Sun"
+   ],
+   "types": [
+    "Perennial"
+   ],
+   "coverage_sqft": 5.0,
+   "native_ca": false,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Senecio Mandraliscae",
+   "common": "Kleinia",
+   "sun": [
+    "Full Sun"
+   ],
+   "types": [
+    "Groundcover",
+    "Perennial",
+    "Succulent"
+   ],
+   "coverage_sqft": 5.0,
+   "native_ca": false,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Grevillea 'Ruby Clusters'",
+   "common": "Grevillea",
+   "sun": [
+    "Full Sun"
+   ],
+   "types": [
+    "Shrub"
+   ],
+   "coverage_sqft": 113.0,
+   "native_ca": false,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Polygala X Dalmaisiana",
+   "common": "Sweet Pea Shrub",
+   "sun": [
+    "Full Sun",
+    "Partial Sun"
+   ],
+   "types": [
+    "Shrub"
+   ],
+   "coverage_sqft": 13.0,
+   "native_ca": false,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Teucrium Fruticans",
+   "common": "Bush Germander",
+   "sun": [
+    "Full Sun"
+   ],
+   "types": [
+    "Shrub"
+   ],
+   "coverage_sqft": 28.0,
+   "native_ca": false,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Helleborus Argutifolius",
+   "common": "Corsican Hellebore",
+   "sun": [
+    "Partial Sun",
+    "Full Shade"
+   ],
+   "types": [
+    "Perennial"
+   ],
+   "coverage_sqft": 7.0,
+   "native_ca": false,
+   "rebate_status": "exact",
+   "water": "moderate"
+  },
+  {
+   "botanical": "Aspidistra Elatior",
+   "common": "Cast Iron Plant",
+   "sun": [
+    "Full Shade",
+    "Partial Sun"
+   ],
+   "types": [
+    "Perennial"
+   ],
+   "coverage_sqft": 2.0,
+   "native_ca": false,
+   "rebate_status": "exact",
+   "water": "moderate"
+  },
+  {
+   "botanical": "Rhaphiolepis Indica",
+   "common": "Indian Hawthorne",
+   "sun": [
+    "Full Sun",
+    "Partial Sun"
+   ],
+   "types": [
+    "Shrub"
+   ],
+   "coverage_sqft": 24.0,
+   "native_ca": false,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Loropetalum Chinense",
+   "common": "Fringe Flower",
+   "sun": [
+    "Full Sun",
+    "Partial Sun"
+   ],
+   "types": [
+    "Shrub"
+   ],
+   "coverage_sqft": 50.0,
+   "native_ca": false,
+   "rebate_status": "exact",
+   "water": "moderate"
+  },
+  {
+   "botanical": "Pittosporum Tobira 'Wheeler's Dwarf'",
+   "common": "Dwarf Mock Orange",
+   "sun": [
+    "Full Sun",
+    "Partial Sun",
+    "Full Shade"
+   ],
+   "types": [
+    "Shrub"
+   ],
+   "coverage_sqft": 20.0,
+   "native_ca": false,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Coprosma X Kirkii",
+   "common": "Creeping Coprosma",
+   "sun": [
+    "Full Sun",
+    "Partial Sun"
+   ],
+   "types": [
+    "Groundcover",
+    "Shrub"
+   ],
+   "coverage_sqft": 20.0,
+   "native_ca": false,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Lantana Montevidensis",
+   "common": "Trailing Lantana",
+   "sun": [
+    "Full Sun"
+   ],
+   "types": [
+    "Groundcover",
+    "Shrub"
+   ],
+   "coverage_sqft": 50.0,
+   "native_ca": false,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Leonotis Leonurus",
+   "common": "Lion's Tail",
+   "sun": [
+    "Full Sun"
+   ],
+   "types": [
+    "Shrub"
+   ],
+   "coverage_sqft": 20.0,
+   "native_ca": false,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Perovskia Atriplicifolia",
+   "common": "Russian Sage",
+   "sun": [
+    "Full Sun"
+   ],
+   "types": [
+    "Perennial",
+    "Shrub"
+   ],
+   "coverage_sqft": 10.0,
+   "native_ca": false,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Dodonaea Viscosa 'Purpurea'",
+   "common": "Purple Hopseed Bush",
+   "sun": [
+    "Full Sun",
+    "Partial Sun"
+   ],
+   "types": [
+    "Shrub"
+   ],
+   "coverage_sqft": 38.0,
+   "native_ca": false,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Acacia Cognata 'Cousin Itt'",
+   "common": "Cousin Itt Little River Wattle",
+   "sun": [
+    "Full Sun",
+    "Partial Sun"
+   ],
+   "types": [
+    "Shrub"
+   ],
+   "coverage_sqft": 28.0,
+   "native_ca": false,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Salvia Greggii & Hybrids",
+   "common": "Autumn Sage",
+   "sun": [
+    "Full Sun",
+    "Partial Sun"
+   ],
+   "types": [
+    "Perennial",
+    "Shrub"
+   ],
+   "coverage_sqft": 5.0,
+   "native_ca": false,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Salvia Leucantha",
+   "common": "Mexican Bush Sage",
+   "sun": [
+    "Full Sun",
+    "Partial Sun"
+   ],
+   "types": [
+    "Perennial",
+    "Shrub"
+   ],
+   "coverage_sqft": 20.0,
+   "native_ca": false,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Salvia Microphylla",
+   "common": "Cherry/Graham Sage",
+   "sun": [
+    "Full Sun",
+    "Partial Sun"
+   ],
+   "types": [
+    "Shrub"
+   ],
+   "coverage_sqft": 13.0,
+   "native_ca": false,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Osteospermum Spp.",
+   "common": "African Daisy",
+   "sun": [
+    "Full Sun"
+   ],
+   "types": [
+    "Groundcover"
+   ],
+   "coverage_sqft": 3.0,
+   "native_ca": false,
+   "rebate_status": "exact",
+   "water": "low"
+  },
+  {
+   "botanical": "Thymus Spp.",
+   "common": "Thyme",
+   "sun": [
+    "Full Sun"
+   ],
+   "types": [
+    "Groundcover",
+    "Perennial"
+   ],
+   "coverage_sqft": 1.0,
+   "native_ca": false,
+   "rebate_status": "exact",
+   "water": "low"
+  }
+ ]
+}

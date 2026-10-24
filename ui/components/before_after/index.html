@@ -1,0 +1,50 @@
+<!doctype html>
+<!-- Drag-to-compare before/after slider. Sizes itself to the image's shape at any screen width
+     and tells Streamlit its height, so there are no empty bands on phones. -->
+<html><head><meta charset="utf-8">
+<style>
+  html, body { margin: 0; background: transparent; }
+  #c { position: relative; width: 100%; margin: 0 auto; overflow: hidden; border-radius: 20px; cursor: ew-resize;
+       touch-action: pan-y; user-select: none; -webkit-user-select: none; }
+  #c img { position: absolute; top: 0; left: 0; height: 100%; display: block; pointer-events: none; }
+  #a { width: 100%; }
+  #b { position: absolute; inset: 0; width: 50%; overflow: hidden; }
+  #h { position: absolute; top: 0; bottom: 0; left: 50%; width: 4px; margin-left: -2px; background: #fff;
+       box-shadow: 0 0 8px rgba(0,0,0,.45); }
+  #k { position: absolute; top: 50%; left: 50%; transform: translate(-50%,-50%); width: 44px; height: 44px; border-radius: 50%;
+       background: #fff; box-shadow: 0 2px 14px rgba(0,0,0,.45); display: flex; align-items: center; justify-content: center;
+       font: 600 15px sans-serif; color: #17332A; }
+  .tag { position: absolute; top: 12px; padding: 6px 13px; border-radius: 99px; font: 700 11px Inter, system-ui, sans-serif;
+         letter-spacing: .1em; box-shadow: 0 2px 10px rgba(0,0,0,.35); }
+  #tb { left: 12px; background: rgba(15,25,20,.82); color: #fff; }
+  #ta { right: 12px; background: #17332A; color: #D3E27A; border: 1.5px solid #D3E27A; }
+  @media (max-width: 480px) { .tag { top: 8px; padding: 4px 10px; font-size: 10px; } #tb { left: 8px; } #ta { right: 8px; } #k { width: 36px; height: 36px; } }
+</style></head>
+<body>
+<div id="c"><img id="a"><div id="b"><img id="bi"></div><div id="h"><div id="k">⇆</div></div>
+  <span class="tag" id="tb">BEFORE</span><span class="tag" id="ta">AFTER</span></div>
+<script>
+const send = (type, data) => window.parent.postMessage(Object.assign({isStreamlitMessage: true, type}, data), "*");
+const c = document.getElementById("c"), b = document.getElementById("b"), h = document.getElementById("h");
+const a = document.getElementById("a"), bi = document.getElementById("bi");
+let ratio = 1.5, maxH = 620, key = null;
+function layout() {
+  // width fills the column, capped so tall photos don't exceed maxH
+  const w = Math.min(document.body.clientWidth, maxH * ratio);
+  c.style.width = w + "px"; c.style.height = (w / ratio) + "px"; bi.style.width = w + "px";
+  send("streamlit:setFrameHeight", {height: Math.ceil(w / ratio) + 4});
+}
+function mv(x) { const r = c.getBoundingClientRect(); const p = Math.min(Math.max((x - r.left) / r.width, 0), 1) * 100;
+                 b.style.width = p + "%"; h.style.left = p + "%"; }
+c.addEventListener("mousemove", e => mv(e.clientX));
+c.addEventListener("touchstart", e => mv(e.touches[0].clientX), {passive: true});
+c.addEventListener("touchmove", e => mv(e.touches[0].clientX), {passive: true});
+window.addEventListener("message", e => {
+  if (e.data.type !== "streamlit:render") return;
+  const x = e.data.args; ratio = x.w / x.h; maxH = x.max_h;
+  if (x.key !== key) { key = x.key; a.src = x.after; bi.src = x.before; }
+  layout();
+});
+new ResizeObserver(layout).observe(document.body);
+send("streamlit:componentReady", {apiVersion: 1});
+</script></body></html>

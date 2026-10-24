@@ -1,0 +1,452 @@
+{
+ "Achillea Millefolium (Ca Native Cultivars)": {
+  "name": "Common yarrow",
+  "height_cm": 60,
+  "width_cm": 60,
+  "look": "ferny soft grey-green feathery foliage in a low mat, flat-topped clusters of tiny white or pale-yellow flowers on upright stems, spring-summer"
+ },
+ "Salvia Spathacea": {
+  "name": "Hummingbird sage",
+  "height_cm": 50,
+  "width_cm": 90,
+  "look": "low spreading clumps of large wrinkled bright-green arrow-shaped leaves, tall stalks of magenta-rose whorled flowers in spring"
+ },
+ "Salvia Clevelandii & Hybrids": {
+  "name": "Cleveland sage",
+  "height_cm": 110,
+  "width_cm": 150,
+  "look": "rounded airy grey-green aromatic shrub, small wrinkled leaves, stacked whorls of vivid violet-blue flowers on upright stems, late spring"
+ },
+ "Salvia Leucophylla": {
+  "name": "Purple sage",
+  "height_cm": 120,
+  "width_cm": 180,
+  "look": "large mounding shrub with silvery-white woolly leaves, soft pink-lavender flower whorls in spring"
+ },
+ "Salvia 'Allen Chickering'": {
+  "name": "Allen Chickering sage",
+  "height_cm": 120,
+  "width_cm": 150,
+  "look": "upright rounded grey-green shrub, long spikes of lavender-blue flower whorls, spring"
+ },
+ "Iris Douglasiana": {
+  "name": "Pacific Coast iris",
+  "height_cm": 40,
+  "width_cm": 60,
+  "look": "fans of narrow arching dark-green sword leaves, purple-blue iris flowers with white and yellow throats, spring"
+ },
+ "Carex Pansa": {
+  "name": "Dune sedge",
+  "height_cm": 15,
+  "width_cm": 40,
+  "look": "very low dense mat of fine grass-like dark-green blades, lawn-like groundcover"
+ },
+ "Carex Tumulicola": {
+  "name": "Foothill sedge",
+  "height_cm": 40,
+  "width_cm": 50,
+  "look": "neat fountain-shaped tuft of fine arching dark-green grassy blades"
+ },
+ "Arctostaphylos Manzanita": {
+  "name": "Manzanita",
+  "height_cm": 250,
+  "width_cm": 250,
+  "look": "large shrub with smooth twisting mahogany-red bark, oval grey-green leaves, tiny white urn-shaped flowers in winter"
+ },
+ "Ceanothus Griseus 'Ray Hartman'": {
+  "name": "Ray Hartman ceanothus",
+  "height_cm": 300,
+  "width_cm": 300,
+  "look": "large dense evergreen shrub, glossy dark-green leaves, covered in fluffy medium-blue flower clusters in spring"
+ },
+ "Ceanothus 'Blue Ray'": {
+  "name": "Blue Ray ceanothus",
+  "height_cm": 180,
+  "width_cm": 210,
+  "look": "dense rounded evergreen shrub, small glossy dark leaves, smothered in deep cobalt-blue flower puffs in spring"
+ },
+ "Epilobium Canum 'Everett's Choice'": {
+  "name": "California fuchsia",
+  "height_cm": 30,
+  "width_cm": 90,
+  "look": "low sprawling grey-green mound, masses of tubular scarlet-orange flowers, late summer-fall"
+ },
+ "Eriogonum Fasciculatum 'Theodore Payne'": {
+  "name": "California buckwheat",
+  "height_cm": 40,
+  "width_cm": 120,
+  "look": "low spreading mound of needle-like dark-green leaves, creamy-white flower pompoms aging to rust"
+ },
+ "Eriogonum Grande Rubescens": {
+  "name": "Rosy buckwheat",
+  "height_cm": 30,
+  "width_cm": 45,
+  "look": "small mound of grey-green leaves, round clusters of rosy-pink flowers on short stems, summer"
+ },
+ "Eriogonum Umbellatum 'Excellent Yellow'": {
+  "name": "Sulfur buckwheat",
+  "height_cm": 30,
+  "width_cm": 45,
+  "look": "low tidy mat of green leaves, umbrella-shaped balls of bright sulfur-yellow flowers, summer"
+ },
+ "Penstemon Heterophyllus 'Margarita Bop'": {
+  "name": "Foothill penstemon",
+  "height_cm": 45,
+  "width_cm": 60,
+  "look": "small bushy mound of narrow green leaves, spikes of tubular blue-violet and pink flowers, spring"
+ },
+ "Mimulus Aurantiacus": {
+  "name": "Sticky monkeyflower",
+  "height_cm": 90,
+  "width_cm": 90,
+  "look": "small upright shrub, narrow glossy dark-green leaves, trumpet-shaped apricot-orange flowers, spring-summer"
+ },
+ "Muhlenbergia Rigens": {
+  "name": "Deergrass",
+  "height_cm": 120,
+  "width_cm": 120,
+  "look": "large fountain-shaped clump of fine green-grey grass, tall straight silvery flower spikes"
+ },
+ "Festuca Californica": {
+  "name": "California fescue",
+  "height_cm": 60,
+  "width_cm": 60,
+  "look": "loose fountain tuft of blue-green grass blades, airy tan seed heads"
+ },
+ "Juncus Patens": {
+  "name": "California gray rush",
+  "height_cm": 60,
+  "width_cm": 60,
+  "look": "upright clump of stiff round blue-grey stems like fine pencils"
+ },
+ "Ribes Sanguineum": {
+  "name": "Flowering currant",
+  "height_cm": 200,
+  "width_cm": 180,
+  "look": "upright deciduous shrub, maple-like green leaves, hanging clusters of pink flowers in late winter"
+ },
+ "Ribes Viburnifolium": {
+  "name": "Evergreen currant",
+  "height_cm": 90,
+  "width_cm": 180,
+  "look": "low spreading shrub with arching red stems, rounded glossy green leaves, small maroon flowers"
+ },
+ "Ribes Malvaceum": {
+  "name": "Chaparral currant",
+  "height_cm": 150,
+  "width_cm": 150,
+  "look": "open shrub, soft fuzzy grey-green lobed leaves, drooping clusters of pink flowers in winter"
+ },
+ "Heteromeles Arbutifolia": {
+  "name": "Toyon",
+  "height_cm": 300,
+  "width_cm": 300,
+  "look": "large evergreen shrub, leathery serrated dark-green leaves, white flower clusters then bright red berries in winter"
+ },
+ "Rhamnus Californica 'Eve Case'": {
+  "name": "Coffeeberry 'Eve Case'",
+  "height_cm": 150,
+  "width_cm": 150,
+  "look": "dense rounded evergreen shrub, broad glossy dark-green oval leaves, berries ripening red to black"
+ },
+ "Rhamnus Californica 'Mound San Bruno'": {
+  "name": "Coffeeberry 'Mound San Bruno'",
+  "height_cm": 120,
+  "width_cm": 180,
+  "look": "compact mounding evergreen shrub, narrow glossy dark-green leaves, dark berries"
+ },
+ "Sisyrinchium Bellum": {
+  "name": "Blue-eyed grass",
+  "height_cm": 30,
+  "width_cm": 30,
+  "look": "small fans of flat grassy green leaves, little star-shaped violet-blue flowers with yellow centers, spring"
+ },
+ "Dudleya Spp.": {
+  "name": "Dudleya",
+  "height_cm": 20,
+  "width_cm": 30,
+  "look": "chalky silver-white succulent rosettes"
+ },
+ "Eschscholzia Californica": {
+  "name": "California poppy",
+  "height_cm": 30,
+  "width_cm": 30,
+  "look": "lacy blue-green foliage, cup-shaped bright orange poppies"
+ },
+ "Erigeron Glaucus": {
+  "name": "Seaside daisy",
+  "height_cm": 25,
+  "width_cm": 50,
+  "look": "low mounds of rounded grey-green leaves, lavender-pink daisies with yellow centers"
+ },
+ "Asclepias Fascicularis": {
+  "name": "Narrowleaf milkweed",
+  "height_cm": 90,
+  "width_cm": 60,
+  "look": "upright thin stems with whorls of narrow leaves, rounded clusters of small pale-pink-white flowers, monarch host plant"
+ },
+ "Romneya Coulteri": {
+  "name": "Matilija poppy",
+  "height_cm": 200,
+  "width_cm": 250,
+  "look": "tall blue-grey stems, huge white crinkled poppy flowers with yellow centers, summer"
+ },
+ "Elymus Condenstatus (Leymus Condenstatus)": {
+  "name": "Giant wild rye",
+  "height_cm": 180,
+  "width_cm": 120,
+  "look": "tall bold clump of wide blue-green grass blades, upright wheat-like seed spikes"
+ },
+ "Nassella Pulchra": {
+  "name": "Purple needlegrass",
+  "height_cm": 60,
+  "width_cm": 45,
+  "look": "fine green bunchgrass, airy purplish feathery seed heads in spring"
+ },
+ "Clinopodium Douglasii": {
+  "name": "Yerba buena",
+  "height_cm": 10,
+  "width_cm": 90,
+  "look": "very low trailing groundcover, small round bright-green aromatic leaves"
+ },
+ "Aquilegia Spp.": {
+  "name": "Western columbine",
+  "height_cm": 60,
+  "width_cm": 40,
+  "look": "delicate lacy blue-green foliage, nodding red-and-yellow spurred flowers, spring"
+ },
+ "Philadelphus Microphyllus": {
+  "name": "Littleleaf mock orange",
+  "height_cm": 120,
+  "width_cm": 120,
+  "look": "fine-textured rounded shrub, tiny leaves, covered in small fragrant white four-petal flowers, spring"
+ },
+ "Cercis Occidentalis": {
+  "name": "Western redbud",
+  "height_cm": 300,
+  "width_cm": 300,
+  "look": "multi-trunk shrub, round heart-shaped blue-green leaves, bare branches covered in magenta-pink blossoms in early spring"
+ },
+ "Verbena Lilacina": {
+  "name": "Lilac verbena",
+  "height_cm": 90,
+  "width_cm": 120,
+  "look": "airy rounded mound of finely cut green leaves, constant clusters of small lilac-purple flowers"
+ },
+ "Lavandula Spp.": {
+  "name": "Lavender",
+  "height_cm": 60,
+  "width_cm": 75,
+  "look": "compact rounded mound of silver-grey needle-like foliage, many upright spikes of deep purple flowers"
+ },
+ "Rosmarinus 'Prostratus'": {
+  "name": "Trailing rosemary",
+  "height_cm": 30,
+  "width_cm": 150,
+  "look": "low cascading mat of dark-green needle leaves, small pale-blue flowers, spills over edges"
+ },
+ "Westringia Fruticosa": {
+  "name": "Coast rosemary",
+  "height_cm": 150,
+  "width_cm": 150,
+  "look": "dense rounded shrub of soft grey-green needle-like leaves, small white flowers, neat clipped look"
+ },
+ "Nepeta Spp.": {
+  "name": "Catmint",
+  "height_cm": 45,
+  "width_cm": 75,
+  "look": "soft billowing mound of small grey-green leaves, haze of lavender-blue flower spikes"
+ },
+ "Lomandra Longifolia": {
+  "name": "Lomandra",
+  "height_cm": 80,
+  "width_cm": 90,
+  "look": "fountain clump of long glossy strappy bright-green blades"
+ },
+ "Dietes Iridioides": {
+  "name": "Fortnight lily",
+  "height_cm": 80,
+  "width_cm": 60,
+  "look": "upright fan clump of stiff narrow sword leaves, white iris-like flowers with yellow and violet marks"
+ },
+ "Dietes Bicolor": {
+  "name": "Yellow fortnight lily",
+  "height_cm": 90,
+  "width_cm": 60,
+  "look": "upright clump of stiff narrow sword leaves, pale-yellow flowers with dark brown spots"
+ },
+ "Agapanthus Inapertus Major": {
+  "name": "Lily of the Nile",
+  "height_cm": 90,
+  "width_cm": 60,
+  "look": "clump of arching strap-shaped green leaves, tall stems topped with globes of blue flowers, summer"
+ },
+ "Sarcococca Ruscifolia": {
+  "name": "Sweet box",
+  "height_cm": 90,
+  "width_cm": 90,
+  "look": "neat dense low shrub, small glossy dark-green pointed leaves, tiny fragrant white flowers in winter"
+ },
+ "Sarcococca Confusa": {
+  "name": "Sweet box",
+  "height_cm": 120,
+  "width_cm": 120,
+  "look": "neat dense shrub, small glossy dark-green pointed leaves, tiny fragrant white flowers in winter"
+ },
+ "Dymondia Margaretae": {
+  "name": "Dymondia",
+  "height_cm": 5,
+  "width_cm": 45,
+  "look": "flat, tight silvery-green groundcover mat, like a low living carpet"
+ },
+ "Leucadendron 'safari Sunset'": {
+  "name": "Safari Sunset conebush",
+  "height_cm": 200,
+  "width_cm": 150,
+  "look": "upright shrub, leafy stems tipped with wine-red to crimson bracts"
+ },
+ "Phormium Tenax": {
+  "name": "New Zealand flax",
+  "height_cm": 180,
+  "width_cm": 150,
+  "look": "bold fan of tall stiff sword-shaped bronze-green leaves"
+ },
+ "Kniphofia 'Elvira'": {
+  "name": "Red-hot poker",
+  "height_cm": 90,
+  "width_cm": 60,
+  "look": "grassy clump with upright torch-shaped spikes of orange-red flowers"
+ },
+ "Anigozanthos 'Harmony'": {
+  "name": "Kangaroo paw",
+  "height_cm": 90,
+  "width_cm": 60,
+  "look": "clump of strappy green leaves, tall stems of fuzzy yellow-and-red tubular flowers"
+ },
+ "Bulbine Frutescens": {
+  "name": "Bulbine",
+  "height_cm": 30,
+  "width_cm": 60,
+  "look": "clumps of fleshy bright-green tubular leaves, slender stalks of small orange-yellow star flowers"
+ },
+ "Senecio Mandraliscae": {
+  "name": "Blue chalksticks",
+  "height_cm": 30,
+  "width_cm": 60,
+  "look": "low groundcover of finger-like powder-blue succulent leaves"
+ },
+ "Grevillea 'Ruby Clusters'": {
+  "name": "Grevillea",
+  "height_cm": 150,
+  "width_cm": 180,
+  "look": "dense mounding shrub, narrow dark-green leaves, curly ruby-red spider-like flowers"
+ },
+ "Polygala X Dalmaisiana": {
+  "name": "Sweet pea shrub",
+  "height_cm": 120,
+  "width_cm": 120,
+  "look": "rounded shrub, small grey-green leaves, constant pea-like magenta-purple flowers"
+ },
+ "Teucrium Fruticans": {
+  "name": "Bush germander",
+  "height_cm": 150,
+  "width_cm": 150,
+  "look": "silvery-white airy shrub, small grey leaves, pale lavender-blue flowers"
+ },
+ "Helleborus Argutifolius": {
+  "name": "Corsican hellebore",
+  "height_cm": 60,
+  "width_cm": 75,
+  "look": "bold clump of spiny blue-green leaves, clusters of pale chartreuse-green cup flowers in winter"
+ },
+ "Aspidistra Elatior": {
+  "name": "Cast iron plant",
+  "height_cm": 60,
+  "width_cm": 60,
+  "look": "clump of large upright paddle-shaped glossy dark-green leaves, deep-shade plant"
+ },
+ "Rhaphiolepis Indica": {
+  "name": "Indian hawthorn",
+  "height_cm": 120,
+  "width_cm": 120,
+  "look": "tidy rounded shrub, leathery dark-green leaves, clusters of pale pink flowers in spring"
+ },
+ "Loropetalum Chinense": {
+  "name": "Fringe flower",
+  "height_cm": 150,
+  "width_cm": 150,
+  "look": "layered shrub, burgundy-purple foliage, fringy hot-pink ribbon flowers"
+ },
+ "Pittosporum Tobira 'Wheeler's Dwarf'": {
+  "name": "Dwarf mock orange",
+  "height_cm": 60,
+  "width_cm": 90,
+  "look": "neat low dome of glossy bright-green whorled leaves"
+ },
+ "Coprosma X Kirkii": {
+  "name": "Creeping coprosma",
+  "height_cm": 45,
+  "width_cm": 150,
+  "look": "low spreading mat of small glossy green leaves"
+ },
+ "Lantana Montevidensis": {
+  "name": "Trailing lantana",
+  "height_cm": 30,
+  "width_cm": 120,
+  "look": "low spreading mat covered in small round clusters of lavender-purple flowers"
+ },
+ "Leonotis Leonurus": {
+  "name": "Lion's tail",
+  "height_cm": 180,
+  "width_cm": 120,
+  "look": "tall upright stems with stacked whorls of fuzzy bright orange tubular flowers"
+ },
+ "Perovskia Atriplicifolia": {
+  "name": "Russian sage",
+  "height_cm": 120,
+  "width_cm": 90,
+  "look": "airy upright silver-white stems, long hazy spikes of tiny lavender-blue flowers"
+ },
+ "Dodonaea Viscosa 'Purpurea'": {
+  "name": "Purple hopseed bush",
+  "height_cm": 300,
+  "width_cm": 200,
+  "look": "tall upright dense shrub with glossy bronze-purple willow-like leaves"
+ },
+ "Acacia Cognata 'Cousin Itt'": {
+  "name": "Cousin Itt acacia",
+  "height_cm": 60,
+  "width_cm": 120,
+  "look": "low soft mound of fine weeping thread-like bright-green foliage"
+ },
+ "Salvia Greggii & Hybrids": {
+  "name": "Autumn sage",
+  "height_cm": 75,
+  "width_cm": 75,
+  "look": "small bushy shrub, tiny green leaves, many small bright red, pink or coral flowers"
+ },
+ "Salvia Leucantha": {
+  "name": "Mexican bush sage",
+  "height_cm": 120,
+  "width_cm": 150,
+  "look": "arching grey-green stems, long velvety purple-and-white flower spikes, fall"
+ },
+ "Salvia Microphylla": {
+  "name": "Cherry sage",
+  "height_cm": 90,
+  "width_cm": 90,
+  "look": "rounded twiggy shrub, small green leaves, many small cherry-red flowers"
+ },
+ "Osteospermum Spp.": {
+  "name": "African daisy",
+  "height_cm": 30,
+  "width_cm": 60,
+  "look": "low mound covered in white, purple or pink daisies with dark blue centers"
+ },
+ "Thymus Spp.": {
+  "name": "Creeping thyme",
+  "height_cm": 8,
+  "width_cm": 45,
+  "look": "flat carpet of tiny green leaves, haze of small pink-lavender flowers, between stones"
+ }
+}
