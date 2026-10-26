@@ -166,7 +166,7 @@ analytics are turned off. The full statement is on the app's Privacy page.
 - **AI inside the app:** OpenAI `gpt-4o` (site reading, design, art direction, render review) and
   `gpt-image-2` (masked photo edit).
 - **AI used to build the app:** Claude (Anthropic) wrote most of the code with me, based on my design
-  process, testing and direction. [Logo tool] was used for the logo. See the application's AI answer for
+  process, testing and direction. ChatGPT was used for the logo. See the application's AI answer for
   what I did myself.
 
 ## Author
