@@ -170,6 +170,6 @@ analytics are turned off. The full statement is on the app's Privacy page.
   what I did myself.
 
 ## Author
-[Your name] · [School] · California's 16th Congressional District
+Diya Bhagat · California's 16th Congressional District
 
 Built as part of a Girl Scout Gold Award project: *AI-Powered Sustainable Landscaping*.
