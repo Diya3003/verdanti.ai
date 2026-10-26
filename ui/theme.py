@@ -241,7 +241,6 @@ table.plants {{ width: 100%; border-collapse: collapse; font-size: .92rem; }}
 table.plants th {{ text-align: left; font-family: 'JetBrains Mono', monospace; font-size: .66rem;
   letter-spacing: .1em; text-transform: uppercase; color: {MUTED}; border-bottom: 1px solid #DDD5C2; padding: .5rem .4rem; }}
 table.plants td {{ border-bottom: 1px solid #ECE6D8; padding: .6rem .4rem; vertical-align: top; }}
-.footer a {{ color: {MUTED} !important; text-decoration: underline; }}
 .footer {{ margin-top: 4rem; padding-top: 1.4rem; border-top: 1px solid #E2DBCA; color: {MUTED}; font-size: .82rem; }}
 /* ── phones ── */
 @media (max-width: 640px) {{
@@ -366,8 +365,7 @@ def before_after(before: Image.Image, after: Image.Image):
 def footer():
     from ui import state
     st.markdown('<div class="footer">Estimates only. Valley Water\'s pre-inspection makes the final rebate decision. '
-                'Built for Santa Clara Valley · Plant data: Valley Water Landscape Rebate Program. · '
-                '<a href="https://github.com/Diya3003/verdanti.ai" target="_blank" rel="noopener">View code on GitHub</a></div>',
+                'Built for Santa Clara Valley · Plant data: Valley Water Landscape Rebate Program.</div>',
                 unsafe_allow_html=True)
     with st.container(key="footlinks"):
         st.button("Privacy", type="tertiary", on_click=state.go, args=("privacy",), key="foot_privacy")

@@ -46,12 +46,16 @@ if page != "studio":
                 f"border-bottom: 2px solid {theme.CLAY} !important; font-weight: 600 !important; }}</style>",
                 unsafe_allow_html=True)
 with st.container(key="nav"):
-    left, right = st.columns([2.6, len(state.PAGES)], vertical_alignment="center")
+    left, right = st.columns([2.6, len(state.PAGES) + 1], vertical_alignment="center")
     left.markdown(theme.brand(), unsafe_allow_html=True)
     with right.container(key="navlinks"):        # its own row, so phones can swipe it sideways
-        for col, (pid, label) in zip(st.columns(len(state.PAGES), vertical_alignment="center"), state.PAGES.items()):
+        cols = st.columns(len(state.PAGES) + 1, vertical_alignment="center")
+        for col, (pid, label) in zip(cols, state.PAGES.items()):
             with col.container(key=f"nav_{pid}"):
                 st.button(label, type="tertiary", on_click=state.go, args=(pid,), use_container_width=True)
+        with cols[-1].container(key="nav_github"):
+            st.link_button("GitHub Code", "https://github.com/Diya3003/verdanti.ai", type="tertiary",
+                           use_container_width=True)
 
 if page != "studio" and (st.session_state.get("_bg_ready") or any(a.get("job_id") for a in st.session_state["areas"])):
     studio.background_notice()
